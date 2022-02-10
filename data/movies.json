@@ -1,0 +1,12 @@
+{
+	"results": [
+		{"id": "0", "movieTitle": "Avengers", "moviePoster": "images/moviePosterAvengers.png", "rating": 4},
+		{"id": "1", "movieTitle": "Inception", "moviePoster": "images/moviePosterInception.png", "rating": 4},
+		{"id": "2", "movieTitle": "Parasite", "moviePoster": "images/moviePosterParasite.png", "rating": 3},
+		{"id": "3", "movieTitle": "Pulp Fiction", "moviePoster": "images/moviePosterPulpFiction.png", "rating": 4},
+		{"id": "4", "movieTitle": "Star Wars", "moviePoster": "images/moviePosterStarWars.png", "rating": 5},
+		{"id": "5", "movieTitle": "The Departed", "moviePoster": "images/moviePosterTheDeparted.png", "rating": 4},
+		{"id": "6", "movieTitle": "The Silence of the Lambs", "moviePoster": "images/moviePosterTheSilenceOfTheLambs.png", "rating": 4},
+		{"id": "6", "movieTitle": "The Godfather", "moviePoster": "images/moviePosterTheGodfather.png", "rating": 4}
+	]
+}
