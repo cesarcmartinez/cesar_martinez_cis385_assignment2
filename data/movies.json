@@ -7,6 +7,6 @@
 		{"id": "4", "movieTitle": "Star Wars", "moviePoster": "images/moviePosterStarWars.png", "rating": 5},
 		{"id": "5", "movieTitle": "The Departed", "moviePoster": "images/moviePosterTheDeparted.png", "rating": 4},
 		{"id": "6", "movieTitle": "The Silence of the Lambs", "moviePoster": "images/moviePosterTheSilenceOfTheLambs.png", "rating": 4},
-		{"id": "6", "movieTitle": "The Godfather", "moviePoster": "images/moviePosterTheGodfather.png", "rating": 4}
+		{"id": "7", "movieTitle": "The Godfather", "moviePoster": "images/moviePosterTheGodfather.png", "rating": 4}
 	]
 }
